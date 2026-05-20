@@ -1,0 +1,4 @@
+D:/Vivado_Project/Vitis/LAB2D/LAB2D/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+D:/Vivado_Project/Vitis/LAB2D/LAB2D/zynq_fsbl/build/CMakeFiles/print_build_info.dir
+D:/Vivado_Project/Vitis/LAB2D/LAB2D/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+D:/Vivado_Project/Vitis/LAB2D/LAB2D/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/Vivado_Project/Vitis/LAB2D/LAB2D_Timer/build",
+  "command": "D:\\Downloads\\Vivado\\2025.2.1\\Vitis\\gnu\\aarch32\\nt\\gcc-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -ID:/Vivado_Project/Vitis/LAB2D/LAB2D_Timer/src -isystem D:/Vivado_Project/Vitis/LAB2D/LAB2D/export/LAB2D/sw/standalone_ps7_cortexa9_0/include -isystem D:/Downloads/Vivado/2025.2.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.3.0/include -isystem D:/Downloads/Vivado/2025.2.1/gnu/aarch32/nt/gcc-arm-none-eabi/x86_64-oesdk-mingw32/usr/lib/arm-xilinx-eabi/gcc/arm-xilinx-eabi/13.3.0/include-fixed -isystem D:/Downloads/Vivado/2025.2.1/Vitis/gnu/aarch32/nt/gcc-arm-none-eabi/aarch32-xilinx-eabi/usr/include  -DSDT -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard  -MMD -MP -specs=D:/Vivado_Project/Vitis/LAB2D/LAB2D/export/LAB2D/sw/standalone_ps7_cortexa9_0/Xilinx.spec -ID:/Vivado_Project/Vitis/LAB2D/LAB2D/export/LAB2D/sw/standalone_ps7_cortexa9_0/include -Wall -Wextra      -O0  -g3     -U__clang__ -o CMakeFiles\\LAB2D_Timer.elf.dir\\LAB2D_Timer.c.obj -c D:\\Vivado_Project\\Vitis\\LAB2D\\LAB2D_Timer\\src\\LAB2D_Timer.c",
+  "file": "D:\\Vivado_Project\\Vitis\\LAB2D\\LAB2D_Timer\\src\\LAB2D_Timer.c"
+}
+]
